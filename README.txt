@@ -1,7 +1,7 @@
 dy评论区点赞脚本 - 便携式版本
 
 使用方法：
-1. 确保已安装Node.js (建议版本18+)
+1. 确保已安装Node.js (建议版本18+)，且具备chrome浏览器
 2. 双击 start-bot.bat 运行脚本
 3. 脚本会自动打开Chrome浏览器并开始运行
 4.如已下载node程序还是无法运行，点击install-and-run.bat
